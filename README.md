@@ -16,5 +16,5 @@ Para instalar os componentes necessários
 E depois instalar o aplicativo Expo Go da [Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&gl=US) ou [App Store](https://apps.apple.com/app/apple-store/id982107779).
 
 ## Telas do Aplicativo
-![Tela de Login](printscreen/login.png)
+![Tela de Login](printscreen/login.jpg)
 
